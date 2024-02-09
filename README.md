@@ -4,4 +4,4 @@ Welcome to my GitHub profile! I'm a Helpdesk Technical Engineer at Libremax Capi
 
 ## My GitHub Contributions as a Snake Game 🐍
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/mattperillo/mattperillo/snake/github-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/mattperillo/mattperillo/snake/github-snake-dark.svg)
